@@ -19,6 +19,9 @@ gen/schemas
 .env.*
 !.env.example
 
+# Agent instructions
+AGENTS.md
+
 # Vite-Timestamps
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
